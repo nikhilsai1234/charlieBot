@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "G7ePCzeQYIITV7IAr/QgeKS2wKBbY8MD18mfBtk6gPs=",
+  "Source": "CharlieChatBotApplication",
+  "BasePath": "_content/CharlieChatBotApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CharlieChatBotApplication\\wwwroot",
+      "Source": "CharlieChatBotApplication",
+      "ContentRoot": "D:\\VS Projects\\CharlieChatBotApplication\\CharlieChatBotApplication\\wwwroot\\",
+      "BasePath": "_content/CharlieChatBotApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VS Projects\\CharlieChatBotApplication\\CharlieChatBotApplication\\wwwroot\\default.htm",
+      "SourceId": "CharlieChatBotApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS Projects\\CharlieChatBotApplication\\CharlieChatBotApplication\\wwwroot\\",
+      "BasePath": "_content/CharlieChatBotApplication",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
